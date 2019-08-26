@@ -1,4 +1,4 @@
-package com.exam.demo;
+package com.exam.demo.controller;
 
 import com.exam.demo.model.Constants;
 import com.exam.demo.model.OrderInfo;

@@ -1,5 +1,6 @@
-package com.exam.demo;
+package com.exam.demo.controller;
 
+import com.exam.demo.DemoApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
